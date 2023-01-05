@@ -3,14 +3,46 @@
     <title>VINCE自习室</title>
     <link href="https://vincezw.github.io/blog/feed.xml" rel="self" />
     <link href="https://vincezw.github.io/blog" />
-    <updated>2023-01-03T17:57:10+08:00</updated>
+    <updated>2023-01-05T17:24:32+08:00</updated>
     <author>
         <name>VINCE清慕</name>
     </author>
     <id>https://vincezw.github.io/blog</id>
 
     <entry>
-        <title>武汉-Boomshake 氛围渲染图</title>
+        <title>展厅舞台 场景美术</title>
+        <author>
+            <name>VINCE清慕</name>
+        </author>
+        <link href="https://vincezw.github.io/blog/wu-taizhan-ting-mei-shu.html"/>
+        <id>https://vincezw.github.io/blog/wu-taizhan-ting-mei-shu.html</id>
+        <media:content url="https://vincezw.github.io/blog/media/posts/31/20230105-172331394.png" medium="image" />
+            <category term="画廊"/>
+
+        <updated>2023-01-05T17:24:32+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://vincezw.github.io/blog/media/posts/31/20230105-172331394.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="添加图像" data-columns="1">
+<figure class="gallery__item"><a href="https://img.cgmodel.com/image/2023/0104/big/1186390-1372643576.gif" data-size="3840x2160"><img loading="lazy" src="https://img.cgmodel.com/image/2023/0104/big/1186390-1372643576.gif" alt="" width="1280" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://img.cgmodel.com/image/2023/0104/big/1186390-325041554.png" data-size="3840x2160"><img loading="lazy" src="https://img.cgmodel.com/image/2023/0104/big/1186390-325041554.png" alt="" width="1280" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://img.cgmodel.com/image/2023/0104/big/1186390-353652624.png" data-size="3840x2160"><img loading="lazy" src="https://img.cgmodel.com/image/2023/0104/big/1186390-353652624.png" alt="" width="1280" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://img.cgmodel.com/image/2023/0104/big/1186390-561729674.png" data-size="3840x2160"><img loading="lazy" src="https://img.cgmodel.com/image/2023/0104/big/1186390-561729674.png" alt="" width="1280" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://img.cgmodel.com/image/2023/0104/big/1186390-690306826.png" data-size="3840x2160"><img loading="lazy" src="https://img.cgmodel.com/image/2023/0104/big/1186390-690306826.png" alt="" width="1280" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://img.cgmodel.com/image/2023/0104/big/1186390-1977876940.png" data-size="3840x2160"><img loading="lazy" src="https://img.cgmodel.com/image/2023/0104/big/1186390-1977876940.png" alt="" width="1280" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://img.cgmodel.com/image/2023/0104/big/1186390-1179582650.png" data-size="3840x2160"><img loading="lazy" src="https://img.cgmodel.com/image/2023/0104/big/1186390-1179582650.png" alt="" width="1280" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://img.cgmodel.com/image/2023/0104/big/1186390-629910867.png" data-size="3840x2160"><img loading="lazy" src="https://img.cgmodel.com/image/2023/0104/big/1186390-629910867.png" alt="" width="1280" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://img.cgmodel.com/image/2023/0104/big/1186390-122872897.png" data-size="3840x2160"><img loading="lazy" src="https://img.cgmodel.com/image/2023/0104/big/1186390-122872897.png" alt="" width="1280" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://img.cgmodel.com/image/2023/0104/big/1186390-210641959.png" data-size="3840x2160"><img loading="lazy" src="https://img.cgmodel.com/image/2023/0104/big/1186390-210641959.png" alt="" width="1280" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://img.cgmodel.com/image/2023/0104/big/1186390-548403172.png" data-size="3840x2160"><img loading="lazy" src="https://img.cgmodel.com/image/2023/0104/big/1186390-548403172.png" alt="" width="1280" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://img.cgmodel.com/image/2023/0104/big/1186390-811394517.png" data-size="3840x2160"><img loading="lazy" src="https://img.cgmodel.com/image/2023/0104/big/1186390-811394517.png" alt="" width="1280" height="720"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>武汉Boomshake 氛围渲染图</title>
         <author>
             <name>VINCE清慕</name>
         </author>
@@ -19,7 +51,7 @@
         <media:content url="https://vincezw.github.io/blog/media/posts/30/Honeyview_DM_20230103174428_001.jpg" medium="image" />
             <category term="画廊"/>
 
-        <updated>2023-01-03T17:46:24+08:00</updated>
+        <updated>2023-01-05T11:22:59+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -228,20 +260,6 @@
             <category term="TIPS"/>
 
         <updated>2022-12-21T14:46:40+08:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>【3Ds Max】蒂芙尼·蓝之心</title>
-        <author>
-            <name>VINCE清慕</name>
-        </author>
-        <link href="https://vincezw.github.io/blog/3ds-max-di-fu-nilan-zhi-xin.html"/>
-        <id>https://vincezw.github.io/blog/3ds-max-di-fu-nilan-zhi-xin.html</id>
-        <media:content url="https://vincezw.github.io/blog/media/posts/21/export-2.png" medium="image" />
-            <category term="TIPS"/>
-
-        <updated>2022-12-21T14:46:34+08:00</updated>
             <summary></summary>
         <content></content>
     </entry>
