@@ -2,17 +2,17 @@
          :root {
             --page-margin:        6vw;
             --page-width:         1200px; 
-            --entry-width:        62ch; 
+            --entry-width:        85ch; 
             --header-height:      4rem; 
             --border-radius:      8px;
-            --card-image-height:  9rem;
+            --card-image-height:  10rem;
             --body-font:          -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
             --heading-font:       -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
             --logo-font:          var(--body-font);
             --menu-font:          var(--body-font);
             --font-weight-normal: 400; 
             --font-weight-bold:   600; 
-            --headings-weight:    600;
+            --headings-weight:    599;
             --headings-transform: none;
             --line-height:        1.6; 
             --white:              #FFFFFF;
