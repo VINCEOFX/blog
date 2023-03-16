@@ -2,10 +2,10 @@
          :root {
             --page-margin:        6vw;
             --page-width:         1200px; 
-            --entry-width:        85ch; 
+            --entry-width:        80ch; 
             --header-height:      4rem; 
             --border-radius:      8px;
-            --card-image-height:  10rem;
+            --card-image-height:  9rem;
             --body-font:          -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
             --heading-font:       -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
             --logo-font:          var(--body-font);
