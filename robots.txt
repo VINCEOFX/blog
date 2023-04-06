@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://vincezw.github.io/blog/sitemap.xml
+Sitemap: https://VINCEOFX.github.io/blog/sitemap.xml
